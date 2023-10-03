@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello there! 👋 I'm Sebas Quiroga
 
-<!--
-**SebasQuirogaUCP/SebasQuirogaUCP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer with a strong background in data visualization, specializing in TypeScript, ReactJS, and Next.js.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Engineer with a focus on building robust and scalable web applications.
+- 📊 Data Visualization Enthusiast, leveraging data to tell compelling stories.
+- 🚀 Open-source contributor and tech enthusiast.
+
+## Technologies I Love
+
+- **TypeScript**: Writing type-safe and maintainable code is my mantra, and TypeScript is my go-to language for achieving that.
+
+- **React**: I'm deeply passionate about React and enjoy crafting interactive user interfaces with reusable components.
+
+- **Next.js**: For server-rendered React applications, Next.js is my framework of choice. It offers both performance and a fantastic developer experience.
+
+## Currently working on
+
+### [Focus World](https://github.com/SebasQuirogaUCP/focus-world) 🧐
+
+### [WhatsApp GPT](https://github.com/SebasQuirogaUCP/whatsapp-gpt) 🤖
