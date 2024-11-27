@@ -1,23 +1,25 @@
 # Hello there! 👋 I'm Sebas Quiroga
 
-I'm a passionate software engineer with a strong background in data visualization, specializing in TypeScript, ReactJS, and Next.js.
+A **Frontend Software Engineer** with a strong focus on building modern, scalable web applications. My expertise lies in creating seamless and engaging user experiences through React, Next.js, and TypeScript.
 
 ## About Me
 
-- 💻 Software Engineer with a focus on building robust and scalable web applications.
-- 📊 Data Visualization Enthusiast, leveraging data to tell compelling stories.
-- 🚀 Open-source contributor and tech enthusiast.
+- 💻 **Software Engineer** with extensive experience in building dynamic and scalable web applications, specializing in frontend development.
+- 🚀 **Tech Enthusiast**: I stay up-to-date with the latest advancements in frontend technologies, with a keen interest in contributing to the open-source community.
+- 🤓 Founder of **Beat**, a leading productivity app that leverages the power of community collaboration to excel productivity. Beat offers features such as task management, community leaderboard, daily and monthly stats, music integration, and more to help users stay motivated and achieve their goals.
+- 🤝 **Collaborative**: I thrive in team environments and enjoy working on projects that challenge me to grow as software engineer.
+- 📊 **Data Visualization Enthusiast**: I harness the power of data to create insightful visual narratives that drive decision-making.
+- 📖 [Medium](https://medium.com/@sebasqui1995) writter
+  
+## Key Technologies & Tools
 
-## Technologies I Love
+- **TypeScript**: 🧑‍💻 Writing type-safe applications that ensure maintainability and scalability across large codebases.
+- **ReactJS**: ⚛️ Building rich, interactive user interfaces with a focus on performance and reusability.
+- **Next.js**: 🌍 A go-to framework for server-rendered React applications, optimizing performance and SEO for dynamic web apps.
+- **Redux / Zustand**: 🔄 Managing complex states in React apps with seamless state management libraries.
 
-- **TypeScript**: Writing type-safe and maintainable code is my mantra, and TypeScript is my go-to language for achieving that.
-
-- **React**: I'm deeply passionate about React and enjoy crafting interactive user interfaces with reusable components.
-
-- **Next.js**: For server-rendered React applications, Next.js is my framework of choice. It offers both performance and a fantastic developer experience.
-
-## Currently working on
-
-### [Focus World](https://github.com/SebasQuirogaUCP/focus-world) 🧐
-
-### [WhatsApp GPT](https://github.com/SebasQuirogaUCP/whatsapp-gpt) 🤖
+## My Professional Philosophy
+- 🧹**Clean, Maintainable Code**: I believe in writing clean, readable, and maintainable code that scales effectively.
+- ⚡ **Performance First**: I focus on building fast, responsive web applications that deliver exceptional user experiences.
+- 📚 **Continuous Learning**: I stay curious and continuously expand my skills in both technology and software engineering practices.
+- 😎 **Building Innovative Tools**: I’m passionate about working on projects that have a meaningful impact on the community. Whether it’s contributing to open-source initiatives, sharing knowledge through articles, or creating new tools, I thrive on making a difference. 🤩
