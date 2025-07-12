@@ -7,6 +7,7 @@ A **Frontend Software Engineer** with a strong focus on building modern, scalabl
 - 💻 **Software Engineer** with extensive experience in building dynamic and scalable web applications, specializing in frontend development.
 - 🚀 **Tech Enthusiast**: I stay up-to-date with the latest advancements in frontend technologies, with a keen interest in contributing to the open-source community.
 - 🤓 Founder of **Beat**, a leading productivity app that leverages the power of community collaboration to excel productivity. Beat offers features such as task management, community leaderboard, daily and monthly stats, music integration, and more to help users stay motivated and achieve their goals.
+- 🔥 Founder of **Cognifai**, a SaaS that seamlessly orchestrates multiple LLMs in a unified workflow to deliver more context-aware and powerful AI reasoning.
 - 🤝 **Collaborative**: I thrive in team environments and enjoy working on projects that challenge me to grow as software engineer.
 - 📊 **Data Visualization Enthusiast**: I harness the power of data to create insightful visual narratives that drive decision-making.
 - 📖 [Medium](https://medium.com/@sebasqui1995) writter
